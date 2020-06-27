@@ -10,7 +10,7 @@ Health metrics
 ```
 # Steps
 
-> git clone https://github.com/LayMui/First-Spring-Boot.git
+> git clone https://github.com/LayMui/Spring-boot.git
 
 mvn spring-boot:run
 
